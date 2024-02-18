@@ -1,0 +1,23 @@
+/* common styles */
+body{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+}
+.size{
+    max-width: 1320x;
+    margin: 0px auto;
+}
+.section-title{
+    color: #FFFFFF;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    
+}
+/* header section */
+.banner-container{
+    background-image: url(../images/banner_image.png);
+    width: 1320px;
+    height: 600px;
+    margin-top: 50px;
+}
