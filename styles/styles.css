@@ -7,6 +7,9 @@ body{
     max-width: 1320px;
     margin: 0px auto;
 }
+.primary-color{
+    color: #FF0000;
+}
 .section-title{
     color: #FFFFFF;
     font-size: 80px;
@@ -90,4 +93,27 @@ body{
     font-size: 18px;
     font-weight: 700;
     margin-left: 45px;
+}
+.venue{
+    text-align: center;
+    background-color: #fcd7d7;
+    margin-top: 80px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.venue-text{
+   font-size: 25px;
+   font-weight: 700;
+   margin-top: 0px;
+   margin-bottom: 15px; 
+}
+.primary-button{
+    background: #FF0000;
+    font-size: 18px;
+    color: #FFFFFF;
+    border-radius: 5px;
+    border: none;
+    padding: 15px 20px;
+    margin-top: 35px;
+    font-weight: 700;
 }
