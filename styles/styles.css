@@ -172,4 +172,46 @@ body{
     width: 120px;
     margin-top: 20px;
 }
+/* holiday-offer-section */
+.holiday-text-section{
+    text-align: center;
+}
+.holiday-text-section>h2, p{
+    margin: 0px;
+}
+.holiday-title{
+    font-size: 12px;
+}
+.holiday-heading{
+    font-size: 70px;
+    font-weight: 900;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    padding-bottom: 20px;
+}
+.holiday-heading-span{
+    color: #FF0000;
+}
+.holiday-text-section>p{
+    color: #070211;
+
+}
+.holiday-image-section{
+    height: 662px;
+    background-image: url(../images/Rectangle\ 2.png), url(../images/Rectangle\ 1.png);
+    background-repeat: no-repeat;
+    background-position: bottom, top right;
+    margin-top: 40px;
+}
+.holiday-image-one{
+    padding: 5px;
+    height: 578px;
+    width: 674px;
+    margin-top: 60px;
+}
+.holiday-image-two{
+    margin-bottom: 250px;
+    margin-left: 50px;
+}
+
 
