@@ -213,5 +213,34 @@ body{
     margin-bottom: 250px;
     margin-left: 50px;
 }
+/* portfolio section */
+.protfolio-text{
+    margin: 0px;
+}
+.portfolio-title{
+    color: #FF0000;
+    font-size: 16px;
+    font-weight: 600;
+}
+.portfolio-heading{
+    font-size: 35px;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    margin-bottom: 0px;
+}
+.portfolio-details{
+    color: #070211;
+    font-size: 14px;
+    margin-top: 10px;
+}
+.portfolio-image{
+    margin-top: 30px;
+}
+.image-size{
+    height: 450px;
+    width: 424px;
+    padding: 5px;
+}
 
 
