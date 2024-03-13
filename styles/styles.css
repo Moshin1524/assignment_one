@@ -242,5 +242,63 @@ body{
     width: 424px;
     padding: 5px;
 }
+/* subscribe-section */
+.subscribe-section{
+    background-color: #fcd7d7;
+    margin-top: 60px;
+    border-radius: 5px;
+}
+.container{
+    text-align: center;
+    padding: 80px 100px;
+}
+.s-image{
+    height: 150px;
+    width: 150px;
+    padding: 10px;
+}
+.s-title{
+    font-size: 45px;
+    font-weight: 900;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    margin-top: 10px;
+    margin-bottom: 18px;
+}
+.s-text{
+    font-size: 16px;
+    color: #070211;
+}
+.input-section{
+    background-color: #fcd7d7;
+    padding-bottom: 90px;
+    display: flex;
+    justify-content: space-around;
+    width: 648px;
+    align-items: center;
+    margin: 0px auto;
+}
+.input-field{
+    height: 72px;
+    width: 448px;
+    background-color: #FFFFFF;
+    border: none;
+    border-radius: 125px 0px 0px 125px;
+}
+.input-field::placeholder{
+    padding-left: 30px;
+    font-size: 18px;
+    color: #070211;
+}
+.input-label{
+    height: 74px;
+    width: 200px;
+    background-color: #FF0000;
+    font-size: 20px;
+    border: none;
+    border-radius: 0px 125px 125px 0px;
+    color: #FFFFFF;
+}
+
 
 
