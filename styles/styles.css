@@ -2,6 +2,7 @@
 body{
     font-family: "Open Sans", sans-serif;
     font-optical-sizing: auto;
+    margin: 0px;
 }
 .size{
     max-width: 1320px;
@@ -144,7 +145,7 @@ body{
 }
 .upcoming-offer-text{
     font-size: 18px;
-    color: #070211;
+    color: #07021160;
 }
 .new-year-offer-image{
     border: 10px solid #FF0000;
@@ -193,7 +194,7 @@ body{
     color: #FF0000;
 }
 .holiday-text-section>p{
-    color: #070211;
+    color: #07021160;
 
 }
 .holiday-image-section{
@@ -267,7 +268,7 @@ body{
 }
 .s-text{
     font-size: 16px;
-    color: #070211;
+    color: #07021160;
 }
 .input-section{
     background-color: #fcd7d7;
@@ -288,7 +289,7 @@ body{
 .input-field::placeholder{
     padding-left: 30px;
     font-size: 18px;
-    color: #070211;
+    color: #07021160;
 }
 .input-label{
     height: 74px;
@@ -299,6 +300,54 @@ body{
     border-radius: 0px 125px 125px 0px;
     color: #FFFFFF;
 }
-
-
+/* footer section */
+.footer-section{
+    background-color: #070211;
+    padding: 80px 100px;
+    margin-top: 120px;
+}
+.all-footer-text{
+    color: #FFFFFF;
+    font-size: 18px;
+}
+.item-alignment{
+    margin-left: 10px;
+}
+/* footer-up */
+.footer-up{
+    display: flex;
+    justify-content: space-between;
+}
+.call{
+    display: flex;
+}
+.website{
+    display: flex;
+}
+.footer-line{
+    margin-top: 25px;
+    border: 1.5px solid #ffffff25;
+}
+/* footer-middle */
+.footer-middle{
+    display: flex;
+    width: 368px;
+    height: 64px;
+    margin: 0px auto;
+}
+.footer-image{
+    height: 60px;
+    width: 60px;
+    margin: 15px;
+}
+/* footer down */
+.footer-line-two{
+    margin-top: 50px;
+    border: 1.5px solid #ffffff25;
+}
+.footer-down{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
 
